@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜɪ.. ɪ'ᴍ 𝗧𝗢𝗫𝗜𝗖 ✨🤍[🤗](https://telegra.ph/file/9bd08de2f95ac59397564.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs 🤍 ᴛᴏ ᴋɴᴏᴡ ᴏᴜʀ ʙᴏᴛ! ʜɪᴛ /help   
+ʜɪ.. ɪ'ᴍ 𝗧𝗢𝗫𝗜𝗖 ✨🤍[🤗](https://telegra.ph/file/3015996ae0396629264c9.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs 🤍 ᴛᴏ ᴋɴᴏᴡ ᴏᴜʀ ʙᴏᴛ! ʜɪᴛ /help   
 """
 
 buttons = [
@@ -104,7 +104,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` sᴘᴀʀᴋʏ 💫🤍[🤗](https://telegra.ph/file/9bd08de2f95ac59397564.jpg) 
+`ʜɪ.. ɪ'ᴍ` sᴘᴀʀᴋʏ 💫🤍[🤗](https://telegra.ph/file/8239e75bbc3679651e433.jpg) 
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
 yone_IMG = "https://telegra.ph/file/9bd08de2f95ac59397564.jpg"
