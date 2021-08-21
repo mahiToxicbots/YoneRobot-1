@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜɪ.. ɪ'ᴍ sᴘᴀʀᴋʏ ✨🤍[🤗](https://telegra.ph/file/9bd08de2f95ac59397564.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..   
+ʜɪ.. ɪ'ᴍ sᴘᴀʀᴋʏ ✨🤍[🤗](https://telegra.ph/file/9bd08de2f95ac59397564.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs 🤍 ᴛᴏ ᴋɴᴏᴡ ᴏᴜʀ ʙᴏᴛ! ʜɪᴛ /help   
 """
 
 buttons = [
@@ -83,7 +83,7 @@ buttons = [
             text="➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Sparkypro_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ 💫", callback_data="yone_"),
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💫", url="https://t.me/Sparkyvc"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ⚠️", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
