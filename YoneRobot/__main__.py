@@ -74,17 +74,16 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/53e6bdbc5fc1c1f1edfff.jpg), ɪᴍ ᴩᴀᴛʀɪᴄɪᴀ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help   
+ʜɪ.. ɪ'ᴍ sᴘᴀʀᴋʏ ✨🤍[🤗](https://telegra.ph/file/9bd08de2f95ac59397564.jpg) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/PATRICIA_ROBOT?startgroup=true"),
+            text="➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Sparkypro_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ😈", callback_data="yone_"),
+        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ 💫", callback_data="yone_"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ⚠️", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
@@ -92,26 +91,26 @@ buttons = [
     [
         InlineKeyboardButton(text="ғᴜɴᴄᴛɪᴏɴs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="ᴜᴩᴅᴀᴛᴇs🗞️", url="https://t.me/PATRICIA_UPDATES"
+            text="ᴜᴩᴅᴀᴛᴇs🗞️", url="https://t.me/Sparkypro"
         ),
     ],
     [
-        InlineKeyboardButton(text="ɢʙᴀɴ-ʟᴏɢs⏱️", url="t.me/PATRICIA_LOGS"),
+        InlineKeyboardButton(text="ᴢᴇᴜs✨", url="t.me/zeus_appeal"),
         InlineKeyboardButton(
-            text="ᴄʜᴀᴛs💢", url="t.me/PATRICIA_CHATS"
+            text="ᴄʜᴀᴛs💢", url="t.me/ABHGFFS"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` Pᴀᴛʀɪᴄɪᴀ[🙋‍♀️](https://telegra.ph/file/53e6bdbc5fc1c1f1edfff.jpg) 
+`ʜɪ.. ɪ'ᴍ` sᴘᴀʀᴋʏ 💫🤍[🤗](https://telegra.ph/file/9bd08de2f95ac59397564.jpg) 
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
-yone_IMG = "https://telegra.ph/file/53e6bdbc5fc1c1f1edfff.jpg"
+yone_IMG = "https://telegra.ph/file/9bd08de2f95ac59397564.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @PATRICIAXMUSIC \
+ You can support the project via [Paypal](#) or by contacting @Sparkypro \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
