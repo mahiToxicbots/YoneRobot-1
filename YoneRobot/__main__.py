@@ -80,16 +80,16 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Sparkypro_bot?startgroup=true"),
+            text="➕️𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣➕️", url="t.me/Sparkypro_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💫", url="https://t.me/mR_ToxiC_KinG"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ⚠️", url=f"https://t.me/Toxic_Support_Chat"
+            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧👿⚠️", url=f"https://t.me/Toxic_Support_Chat"
         ),
     ],
     [
-        InlineKeyboardButton(text="ғᴜɴᴄᴛɪᴏɴs", callback_data="help_back"),
+        InlineKeyboardButton(text="𝗛𝗘𝗟𝗣❤️", callback_data="help_back"),
         InlineKeyboardButton(
             text="ᴜᴩᴅᴀᴛᴇs🗞️", url="https://t.me/Toxic_Probot_Support"
         ),
